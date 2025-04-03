@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning the creation of smart contracts to create my own eth token, which I plan to make a DAO token for my community in the future.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can contact me via my telegram channel https://t.me/netpresentvalue .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Кофе → Код → Кофе → Код → 💤
 
 <!---
 rucryptowhale/rucryptowhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
