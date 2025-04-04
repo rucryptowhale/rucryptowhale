@@ -1,4 +1,4 @@
-# 🌊 Crypto Whale | Web3 Architect 🚀
+# 🌊 Ru Crypto Whale | KPUR | Web3 Architect 🚀
 
 📬 **Contacts**:  
 🔹 [Telegram Community](https://t.me/netpresentvalue)  
