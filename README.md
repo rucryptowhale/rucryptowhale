@@ -33,11 +33,12 @@
 ⚙️ **Development Rhythm**:  
 ```python
 while True:
-    ☕️.consume(2)
+    coffee.consume(2)
     try:
         build(web3_projects)
     except BlockchainError:
         debug.with_coffee()
     finally:
         deploy_to(mainnet)
+```
 [![Visits](https://komarev.com/ghpvc/?username=rucryptowhale&label=Profile+Views&color=blue)](https://github.com/rucryptowhale)
