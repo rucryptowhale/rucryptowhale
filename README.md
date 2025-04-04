@@ -33,14 +33,21 @@
 ## ⚙️ Development Rhythm
 
 ```python
-while True:
-    coffee.consume(2)
+while True:  # Бесконечный цикл разработки
+    # 1. Зарядка энергией ☕️
+    coffee.consume(2)  # Потребляем 2 единицы кофеина
+    
     try:
-        build(web3_projects)
+        # 2. Сборка проектов 🛠️
+        build(web3_projects)  # Компилируем и тестируем
+        
     except BlockchainError:
-        debug.with_coffee()
+        # 3. Отладка при ошибках 🐛
+        debug.with_coffee()  # Аналитика с доп. кофе
+        
     finally:
-        deploy_to(mainnet)
+        # 4. Деплой в основную сеть 🚀
+        deploy_to(mainnet)  # Обновляем контракты
 ```
 
 [![Visits](https://komarev.com/ghpvc/?username=rucryptowhale&label=Profile+Views&color=blue)](https://github.com/rucryptowhale)
