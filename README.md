@@ -31,6 +31,7 @@
 | Urgent Matters         | [Email](mailto:netpresentvalue@mail.ru) ‼️     | Critical Only  |
 
 ## ⚙️ Development Rhythm
+
 ```python
 while True:
     coffee.consume(2)
@@ -40,5 +41,6 @@ while True:
         debug.with_coffee()
     finally:
         deploy_to(mainnet)
+```  ← Закрывающие ``` без пустой строки внутри блока кода
 
 [![Visits](https://komarev.com/ghpvc/?username=rucryptowhale&label=Profile+Views&color=blue)](https://github.com/rucryptowhale)
