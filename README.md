@@ -30,7 +30,7 @@
 | Technical Discussion   | [GitHub Issues](https://github.com/rucryptowhale) 💻 | Mon-Fri        |
 | Urgent Matters         | [Email](mailto:netpresentvalue@mail.ru) ‼️     | Critical Only  |
 
-⚙️ **Development Rhythm**:  
+## ⚙️ Development Rhythm
 ```python
 while True:
     coffee.consume(2)
@@ -40,5 +40,4 @@ while True:
         debug.with_coffee()
     finally:
         deploy_to(mainnet)
-```
 [![Visits](https://komarev.com/ghpvc/?username=rucryptowhale&label=Profile+Views&color=blue)](https://github.com/rucryptowhale)
